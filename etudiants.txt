@@ -1,0 +1,5 @@
+1	oui	5	non	Mr	Damien Collus
+3	oui	1	non	Mr	Mathieu	Patin
+4	non	0	oui	Mme	Lauryn	Nicolas
+5	oui	3	non	Mme	Laure Martinez
+2	oui	7	oui	Mme	Charline Nicolas
